@@ -1,0 +1,142 @@
+﻿[
+    {
+        "sku": "SUN-HW302A2023",
+        "name": "SUNSUN HW-302",
+        "price": "230",
+        "offer": "0.15",
+        "image": "hw302.jpg"
+    },
+    {
+        "sku": "SUN-HW703A2023",
+        "name": "SUNSUN HW-703A",
+        "price": "320",
+        "offer": "0.41",
+        "image": "hw703a.jpg"
+    },
+    {
+        "sku": "SUN-HW30002023",
+        "name": "SUNSUN HW-3000",
+        "price": "550",
+        "offer": "0.30",
+        "image": "hw3000.jpg"
+    },
+    {
+        "sku": "SUN-HW50002023",
+        "name": "SUNSUN HW-5000",
+        "price": "780",
+        "offer": "0.66",
+        "image": "hw5000.jpg"
+    },
+    {
+        "sku": "API-QS2023",
+        "name": "API® QUICK START",
+        "price": "55",
+        "offer": "0.19",
+        "image": "quick-start.jpg"
+    },
+    {
+        "sku": "API-SC2023",
+        "name": "API® STRESS COAT",
+        "price": "50",
+        "offer": "0.32",
+        "image": "api-stress-coat-16.jpg"
+    },
+    {
+        "sku": "API-TWC2023",
+        "name": "API® TAP WATER CONDICIONER™",
+        "price": "45",
+        "offer": "0.47",
+        "image": "tap-water-conditioner-16.jpg"
+    },
+    {
+        "sku": "API-SZ2023",
+        "name": "API® STRESS ZYME™",
+        "price": "75",
+        "offer": "0.52",
+        "image": "stress-zyme-16.jpg"
+    },
+    {
+        "sku": "NEO-ES2023",
+        "name": "NEO ESSENCE - 300ml",
+        "price": "25",
+        "offer": "0.62",
+        "image": "neoEssence300.jpg"
+    },
+    {
+        "sku": "NEO-SOL12023",
+        "name": "NEO SOLUTION 1 - 300ml",
+        "price": "30",
+        "offer": "0.50",
+        "image": "neoSolution1-300.jpg"
+    },
+    {
+        "sku": "NEO-SOL22023",
+        "name": "NEO SOLUTION 2 - 300ml",
+        "price": "30",
+        "offer": "0.50",
+        "image": "neoSolution2-300.jpg"
+    },
+    {
+        "sku": "NEO-SOLFE2023",
+        "name": "NEO SOLUTION FE - 300ml",
+        "price": "30",
+        "offer": "0.37",
+        "image": "neoSolutionfe-300.jpg"
+    },
+    {
+        "sku": "NEO-V2023",
+        "name": "NEO V - 300ml",
+        "price": "25",
+        "offer": "0.37",
+        "image": "neoV300.jpg"
+    },
+    {
+        "sku": "NEO-C2023",
+        "name": "NEO C - 300ml",
+        "price": "25",
+        "offer": "0.37",
+        "image": "c300.jpg"
+    },
+    {
+        "sku": "NEO-BT2023",
+        "name": "NEO BOOSTER TROPICAL - 300ml",
+        "price": "25",
+        "offer": "0.37",
+        "image": "neoBoosterTropical300.jpg"
+    },
+    {
+        "sku": "NEO-CL2023",
+        "name": "NEO CLEAN - 300ml",
+        "price": "25",
+        "offer": "0.37",
+        "image": "neoClean300.jpg"
+    },
+    {
+        "sku": "NEO-B2023",
+        "name": "NEO BLACK - 300ml",
+        "price": "25",
+        "offer": "0.37",
+        "image": "neoBlack300.jpg"
+    },
+    {
+        "sku": "NEO-G2023",
+        "name": "NEO GUARD - 300ml",
+        "price": "25",
+        "offer": "0.37",
+        "image": "guard300.jpg"
+    },
+    {
+        "sku": "NEO-CO22023",
+        "name": "NEO CO2 - KIT COMPLETO",
+        "price": "90",
+        "offer": "0.37",
+        "image": "co2.jpg"
+    },
+    {
+        "sku": "NEO-SOLK",
+        "name": "NEO SOLUTION K - 300ml",
+        "price": "25",
+        "offer": "0.37",
+        "image": "neoSolutionk-300.jpg"
+    }
+]

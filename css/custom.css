@@ -1,0 +1,143 @@
+.content h1 {
+    font-family: 'Century Gothic', sans-serif;
+    font-size: 500%;
+    color: #020542;
+    margin-bottom: 50px;
+    text-shadow: 3px 0 0 white,
+      0 3px 0 white,
+      -3px 0 0 white,
+      0 -3px 0 white;
+  
+  }
+
+/* Icono de Whatsapp */
+#chatWhatsApp{
+    width: 64px;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+}
+
+/* HEADER */
+header {
+    background-image: url(../image/recursos/header.jpg);
+    background-position: center;
+    background-size: cover;
+    width:100%;
+    height:250px;
+}
+
+/* CARRITO */
+#imageCarritoVacio{
+    width: 60%;
+}
+
+#ventanaCarrito span {
+    font-size: 1em;
+}
+
+#ventanaCarrito .precioDescuento, #ventanaCarrito .precioFinal{
+    font-size: 1em;
+    text-align: right;
+}
+
+/* barra de menu */
+.navbar{
+    background-color: white;
+    font-size:  20px ;
+  }
+  
+  .navbar-logo{
+    display: inline-block;
+    vertical-align: middle;
+    width: 200px;
+    
+  }
+  
+  .navbar-logo img{
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .nav-item:hover{
+    background: #0d6efd;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+  }
+  
+  .nav-item > a:hover{
+   color: white;
+   transition: 0s;
+   }
+  
+   #navbarSupportedContent{
+    margin-left: 20px;
+   }
+  
+   .nav-item.dropdown > ul> li> a:hover{
+    background: #0d6efd;
+    color: white;
+    transition: 0s;
+   }
+
+   /* estilo del subtitulo de la pagina "mundo acuatico" */
+.content h2{
+    border-bottom: none;
+    font-size: 20px;
+    text-shadow: 0px 4px 3px rgb(0, 0, 0);
+    color: rgb(255, 255, 255)
+    }
+
+
+    /* estilo de contenedor del boton whatsapp */
+.container-boton {
+    background-color: #28D146;
+    border: 3px solid #fff;
+    position: fixed;
+    z-index: 999;
+    border-radius: 50%;
+    bottom: 20px;
+    right: 25px;
+    padding: 10px;
+    transition: ease 0.3s;
+    animation: efecto 1.2s infinite;
+    /* usa el efecto creado de onda */
+  }
+  
+  /* estilo al pasar mouse por el contenedor de whatsapp */
+  .container-boton:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+  }
+  
+  /* Estilo del boton */
+  .boton {
+    width: 35px;
+    transition: ease 1s;
+  }
+  
+  /* efecto del boton onda infinita */
+  @keyframes efecto {
+    0% {
+      box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.85);
+    }
+  
+    100% {
+      box-shadow: 0 0 0 25px rgba(0, 0, 0, 0);
+    }
+  }
+
+  span.precioOriginal{
+    text-decoration: line-through;
+  }
+
+  span.precioDescuento{
+    color: orangered;
+  }
+
+  span.precioFinal{
+    color: rgb(153, 4, 4);
+    font-weight: bold;
+  }
